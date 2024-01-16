@@ -83,7 +83,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [Uber](#uber)
 
 - **Appendix**
-   
+
   - [Next Steps](#next-steps)
   - [References](#references)
 
